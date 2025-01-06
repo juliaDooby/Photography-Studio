@@ -6,10 +6,9 @@
 
   <a href="https://juliadooby.github.io/Photography-Studio/"><strong>➥Demo</strong></a>
 
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
-<div align="center"><img src="" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Photography-Studio/blob/main/Capturer_1.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Photography-Studio/blob/main/Capturer_3.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Photography-Studio/blob/main/Capturer_2.JPG" width="100%" height="20%"></img></div>
 
 ---
 
